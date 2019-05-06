@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "449006373770",
+    "firebase_url": "https://chat-c416f.firebaseio.com",
+    "project_id": "chat-c416f",
+    "storage_bucket": "chat-c416f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449006373770:android:c0becd0922f80e11",
+        "android_client_info": {
+          "package_name": "com.ronnyerybarbosa.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449006373770-rkq6egfpk0760e94mmmlejnkaopm946l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ronnyerybarbosa.chat",
+            "certificate_hash": "a708498120333b12b1bc2739914cdd144eb00c3a"
+          }
+        },
+        {
+          "client_id": "449006373770-jt2ervsq96a2b9ieanpitul8vhbehi7e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ronnyerybarbosa.chat",
+            "certificate_hash": "0b9b0b2b04230e757fb76eb53dd5e485f3ad8543"
+          }
+        },
+        {
+          "client_id": "449006373770-o49134m6d6ef3dfofqbhab0jea0ainuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXe7tVB_UgXxiV2vpGFzBDyDJPvNjAcj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449006373770-o49134m6d6ef3dfofqbhab0jea0ainuu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
